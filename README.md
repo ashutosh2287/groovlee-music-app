@@ -49,7 +49,7 @@ A modern, full-stack music streaming web application built with React.js, TypeSc
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/groovlee.git
+   git clone https://github.com/ashutosh2287/groovlee.git
    cd groovlee
    ```
 
