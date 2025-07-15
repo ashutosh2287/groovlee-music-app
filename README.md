@@ -163,9 +163,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Developer
 
 **Ashutosh Anand**
-- Portfolio: [Add your portfolio link]
-- LinkedIn: [Add your LinkedIn]
-- GitHub: [Add your GitHub profile]
+- LinkedIn: [https://www.linkedin.com/in/ashutosh-anand-1651841b6/]
+- GitHub: [https://github.com/ashutosh2287]
 
 ## 🙏 Acknowledgments
 
